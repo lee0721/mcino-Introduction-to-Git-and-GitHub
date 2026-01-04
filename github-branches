@@ -1,0 +1,8 @@
+git branch
+  bug-fix-typo
+* main
+git branch -a
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
